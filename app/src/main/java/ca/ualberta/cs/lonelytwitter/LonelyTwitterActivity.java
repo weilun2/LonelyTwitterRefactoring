@@ -11,6 +11,8 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import ca.ualberta.cs.lonelytwitter_jiahao6.R;
+
 public class LonelyTwitterActivity extends Activity {
 
 	private EditText bodyText;
